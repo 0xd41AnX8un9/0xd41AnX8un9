@@ -1,4 +1,4 @@
-# 💻 Welcome to My GitHub Profile! Hello, I'm Dylan! 👋
+# 💻 Welcome to My GitHub Profile! Hello! 👋
 
 I'm a **Senior SOC Analyst** and **Cyber Defensive and Offensive Enthusiast** with a passion for protecting systems and networks.  
 
